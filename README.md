@@ -38,6 +38,27 @@ Faculty of Medicine of the University of Lisbon
 
 ---
 
+## Experience
+
+### Researcher, Mye-InfoBank Project – 09/2022 – 09/2023  
+**COST Action CA20117:** Converting Molecular Profiles of Myeloid Cells into Biomarkers for Inflammation and Cancer  
+
+- Collected and curated metadata for the Breast Cancer Myeloid Cell Atlas.  
+- Conducted a short-term scientific mission to advance in silico myeloid cell deconvolution from bulk transcriptomics.
+
+### Instructor, Computational Biology in Cancer – 09/11/2023  
+**Champalimaud Foundation - Lisbon, Portugal**  
+
+- Delivered a short course on computational biology in cancer, focusing on single-cell RNA sequencing data analysis, to Ph.D. students as part of the INCDP2022 program.
+
+### Researcher – 09/2019 - 05/2020  
+**GenomePT - Lisbon, Portugal**  
+
+- Developed pipelines for bioinformatics analysis of genomic data from microarray and next-generation sequencing platforms, including Docker containerization.  
+- Created a best-practice handbook for developing and sharing Docker images for genomics data analysis software.
+
+---
+
 ## Skills
 
 ### Programming & Software Development:
@@ -63,27 +84,5 @@ Faculty of Medicine of the University of Lisbon
 - **Portuguese:** Native  
 
 ---
-
-## Experience
-
-### Researcher, Mye-InfoBank Project – 09/2022 – 09/2023  
-**COST Action CA20117:** Converting Molecular Profiles of Myeloid Cells into Biomarkers for Inflammation and Cancer  
-
-- Collected and curated metadata for the Breast Cancer Myeloid Cell Atlas.  
-- Conducted a short-term scientific mission to advance in silico myeloid cell deconvolution from bulk transcriptomics.
-
-### Instructor, Computational Biology in Cancer – 09/11/2023  
-**Champalimaud Foundation - Lisbon, Portugal**  
-
-- Delivered a short course on computational biology in cancer, focusing on single-cell RNA sequencing data analysis, to Ph.D. students as part of the INCDP2022 program.
-
-### Researcher – 09/2019 - 05/2020  
-**GenomePT - Lisbon, Portugal**  
-
-- Developed pipelines for bioinformatics analysis of genomic data from microarray and next-generation sequencing platforms, including Docker containerization.  
-- Created a best-practice handbook for developing and sharing Docker images for genomics data analysis software.
-
----
-
 
 
