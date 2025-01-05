@@ -7,7 +7,7 @@ I’m a computational biologist with a passion for data analysis and visualizati
 ## Contact
 
 - **Email:** Mbica.compbio@gmail.com  
-- **LinkedIn:** [Marta Bica](https://www.linkedin.com/in/martabica)  
+- **LinkedIn:** [in/martabica](https://www.linkedin.com/in/martabica)  
 - **Scientific Curriculum:** [Ciencia Vitae](https://www.cienciavitae.pt/en/E61C-4BC8-2107)  
 
 ---
